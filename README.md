@@ -1,2 +1,3 @@
 # hello_world
-staring a repository
+starting a repository
+hust made this change
